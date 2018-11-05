@@ -25,6 +25,9 @@ String HOST = "http://192.168.3.1:5555/";
 String DEV_ID = "dev-esp8266-1";
 String DEV_NAME = "NodeMCU ESP8266 test device";
 
+// fake measurement settings
+const int INTERVAL = 15000;
+
 String request_get(String endpoint, int &statusCode) {
   HTTPClient http;
 
@@ -90,19 +93,20 @@ boolean joinAP() {
 void setup() {
   // Open serial console for debugging
   USE_SERIAL.begin(115200);
-  USE_SERIAL.print("Start test script");
+  USE_SERIAL.println("Start test script");
+  USE_SERIAL.println("-----------------");
 }
 
 void loop() {
   // put your main code here, to run repeatedly:
 
   if (joinAP()) {
-    USE_SERIAL.println("[WiFi] connected.");
+    USE_SERIAL.print("[WiFi] connected. Search Base Station....");
 
     int s;
     String ack = request_get("acknowledge", s);
     if (ack == "1") {
-      USE_SERIAL.println("acknowledged");
+      USE_SERIAL.println("acknowledged.");
 
       // make the sensor readings here
       float temp = random(-100, 400) / 10.0;
@@ -119,11 +123,11 @@ void loop() {
       }
 
     } else {
-      USE_SERIAL.println("can't reach omega-logserver");
+      USE_SERIAL.println("not found.");
     }
     
   } else {
     USE_SERIAL.println("[WiFi] not connected.");
   }
-  delay(15000);
+  delay(INTERVAL);
 }
