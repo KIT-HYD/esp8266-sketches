@@ -1,0 +1,2602 @@
+[
+    {
+        "time": "2018-11-05 20:16:35.264691",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 20:16:35.258185"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 27.699999999999999
+        }
+    },
+    {
+        "time": "2018-11-05 20:21:35.386424",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 20:21:35.379852"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 27.699999999999999
+        }
+    },
+    {
+        "time": "2018-11-05 20:26:35.508075",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 20:26:35.501589"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 27.699999999999999
+        }
+    },
+    {
+        "time": "2018-11-05 20:31:35.634074",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 20:31:35.627591"
+        },
+        "payload": {
+            "capacitance": 417,
+            "temperature": 27.899999999999999
+        }
+    },
+    {
+        "time": "2018-11-05 20:36:35.760568",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 20:36:35.754221"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 27.800000000000001
+        }
+    },
+    {
+        "time": "2018-11-05 20:41:35.901941",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 20:41:35.886983"
+        },
+        "payload": {
+            "capacitance": 417,
+            "temperature": 27.800000000000001
+        }
+    },
+    {
+        "time": "2018-11-05 20:46:36.037249",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 20:46:36.030576"
+        },
+        "payload": {
+            "capacitance": 417,
+            "temperature": 27.699999999999999
+        }
+    },
+    {
+        "time": "2018-11-05 20:51:36.174213",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 20:51:36.167507"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 27.899999999999999
+        }
+    },
+    {
+        "time": "2018-11-05 20:56:36.325415",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 20:56:36.318774"
+        },
+        "payload": {
+            "capacitance": 417,
+            "temperature": 27.800000000000001
+        }
+    },
+    {
+        "time": "2018-11-05 21:01:36.473290",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 21:01:36.466612"
+        },
+        "payload": {
+            "capacitance": 417,
+            "temperature": 27.800000000000001
+        }
+    },
+    {
+        "time": "2018-11-05 21:06:36.615112",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 21:06:36.608387"
+        },
+        "payload": {
+            "capacitance": 417,
+            "temperature": 27.800000000000001
+        }
+    },
+    {
+        "time": "2018-11-05 21:11:36.760130",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 21:11:36.753662"
+        },
+        "payload": {
+            "capacitance": 417,
+            "temperature": 27.800000000000001
+        }
+    },
+    {
+        "time": "2018-11-05 21:16:36.911776",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 21:16:36.905180"
+        },
+        "payload": {
+            "capacitance": 417,
+            "temperature": 27.899999999999999
+        }
+    },
+    {
+        "time": "2018-11-05 21:21:37.064435",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 21:21:37.057841"
+        },
+        "payload": {
+            "capacitance": 417,
+            "temperature": 27.899999999999999
+        }
+    },
+    {
+        "time": "2018-11-05 21:26:37.218115",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 21:26:37.211492"
+        },
+        "payload": {
+            "capacitance": 417,
+            "temperature": 27.800000000000001
+        }
+    },
+    {
+        "time": "2018-11-05 21:31:37.379423",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 21:31:37.372835"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 27.899999999999999
+        }
+    },
+    {
+        "time": "2018-11-05 21:36:37.553951",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 21:36:37.547349"
+        },
+        "payload": {
+            "capacitance": 417,
+            "temperature": 27.800000000000001
+        }
+    },
+    {
+        "time": "2018-11-05 21:41:37.728019",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 21:41:37.712127"
+        },
+        "payload": {
+            "capacitance": 417,
+            "temperature": 27.800000000000001
+        }
+    },
+    {
+        "time": "2018-11-05 21:46:37.890988",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 21:46:37.884498"
+        },
+        "payload": {
+            "capacitance": 417,
+            "temperature": 27.800000000000001
+        }
+    },
+    {
+        "time": "2018-11-05 21:51:38.056385",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 21:51:38.049705"
+        },
+        "payload": {
+            "capacitance": 417,
+            "temperature": 27.699999999999999
+        }
+    },
+    {
+        "time": "2018-11-05 21:56:38.223229",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 21:56:38.216547"
+        },
+        "payload": {
+            "capacitance": 417,
+            "temperature": 27.699999999999999
+        }
+    },
+    {
+        "time": "2018-11-05 22:01:38.392479",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 22:01:38.385986"
+        },
+        "payload": {
+            "capacitance": 417,
+            "temperature": 27.699999999999999
+        }
+    },
+    {
+        "time": "2018-11-05 22:06:38.566544",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 22:06:38.559933"
+        },
+        "payload": {
+            "capacitance": 417,
+            "temperature": 27.699999999999999
+        }
+    },
+    {
+        "time": "2018-11-05 22:11:38.859681",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 22:11:38.852908"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 27.600000000000001
+        }
+    },
+    {
+        "time": "2018-11-05 22:16:39.042198",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 22:16:39.035653"
+        },
+        "payload": {
+            "capacitance": 417,
+            "temperature": 27.600000000000001
+        }
+    },
+    {
+        "time": "2018-11-05 22:21:39.331701",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 22:21:39.325052"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 27.5
+        }
+    },
+    {
+        "time": "2018-11-05 22:26:42.739161",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 22:26:42.732669"
+        },
+        "payload": {
+            "capacitance": 417,
+            "temperature": 27.399999999999999
+        }
+    },
+    {
+        "time": "2018-11-05 22:31:43.093954",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 22:31:43.087382"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 27.399999999999999
+        }
+    },
+    {
+        "time": "2018-11-05 22:36:43.322242",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 22:36:43.315515"
+        },
+        "payload": {
+            "capacitance": 417,
+            "temperature": 27.300000000000001
+        }
+    },
+    {
+        "time": "2018-11-05 22:41:43.558330",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 22:41:43.551461"
+        },
+        "payload": {
+            "capacitance": 417,
+            "temperature": 27.199999999999999
+        }
+    },
+    {
+        "time": "2018-11-05 22:46:43.800185",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 22:46:43.793624"
+        },
+        "payload": {
+            "capacitance": 417,
+            "temperature": 27.100000000000001
+        }
+    },
+    {
+        "time": "2018-11-05 22:51:44.053840",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 22:51:44.046940"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 27.100000000000001
+        }
+    },
+    {
+        "time": "2018-11-05 22:56:44.367267",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 22:56:44.360657"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.899999999999999
+        }
+    },
+    {
+        "time": "2018-11-05 23:01:44.612587",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 23:01:44.605972"
+        },
+        "payload": {
+            "capacitance": 417,
+            "temperature": 26.899999999999999
+        }
+    },
+    {
+        "time": "2018-11-05 23:06:44.845159",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 23:06:44.838242"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.899999999999999
+        }
+    },
+    {
+        "time": "2018-11-05 23:11:45.093144",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 23:11:45.086646"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.800000000000001
+        }
+    },
+    {
+        "time": "2018-11-05 23:16:45.419957",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 23:16:45.413315"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.899999999999999
+        }
+    },
+    {
+        "time": "2018-11-05 23:21:45.655330",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 23:21:45.648317"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.899999999999999
+        }
+    },
+    {
+        "time": "2018-11-05 23:26:45.891901",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 23:26:45.885309"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 27.0
+        }
+    },
+    {
+        "time": "2018-11-05 23:31:46.130753",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 23:31:46.119958"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.899999999999999
+        }
+    },
+    {
+        "time": "2018-11-05 23:36:46.378607",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 23:36:46.372064"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 27.0
+        }
+    },
+    {
+        "time": "2018-11-05 23:41:46.597347",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 23:41:46.590743"
+        },
+        "payload": {
+            "capacitance": 417,
+            "temperature": 27.100000000000001
+        }
+    },
+    {
+        "time": "2018-11-05 23:46:46.839255",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 23:46:46.832499"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 27.100000000000001
+        }
+    },
+    {
+        "time": "2018-11-05 23:51:47.186714",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 23:51:47.180116"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 27.0
+        }
+    },
+    {
+        "time": "2018-11-05 23:56:47.517697",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 23:56:47.510907"
+        },
+        "payload": {
+            "capacitance": 417,
+            "temperature": 27.100000000000001
+        }
+    },
+    {
+        "time": "2018-11-06 00:01:47.857116",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 00:01:47.850284"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 27.0
+        }
+    },
+    {
+        "time": "2018-11-06 00:06:48.197071",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 00:06:48.190384"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 27.100000000000001
+        }
+    },
+    {
+        "time": "2018-11-06 00:11:48.541483",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 00:11:48.535051"
+        },
+        "payload": {
+            "capacitance": 417,
+            "temperature": 27.199999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 00:16:48.875530",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 00:16:48.868582"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 27.199999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 00:21:49.220697",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 00:21:49.214364"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 27.100000000000001
+        }
+    },
+    {
+        "time": "2018-11-06 00:26:51.498911",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 00:26:51.492078"
+        },
+        "payload": {
+            "capacitance": 417,
+            "temperature": 27.100000000000001
+        }
+    },
+    {
+        "time": "2018-11-06 00:31:51.849851",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 00:31:51.843291"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 27.100000000000001
+        }
+    },
+    {
+        "time": "2018-11-06 00:36:52.178541",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 00:36:52.171649"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 27.0
+        }
+    },
+    {
+        "time": "2018-11-06 00:41:52.521431",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 00:41:52.514723"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 27.0
+        }
+    },
+    {
+        "time": "2018-11-06 00:46:52.859229",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 00:46:52.852435"
+        },
+        "payload": {
+            "capacitance": 417,
+            "temperature": 27.0
+        }
+    },
+    {
+        "time": "2018-11-06 00:51:53.193053",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 00:51:53.186501"
+        },
+        "payload": {
+            "capacitance": 417,
+            "temperature": 26.899999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 00:56:53.536419",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 00:56:53.529608"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.800000000000001
+        }
+    },
+    {
+        "time": "2018-11-06 01:01:53.885580",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 01:01:53.879043"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.800000000000001
+        }
+    },
+    {
+        "time": "2018-11-06 01:06:54.214984",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 01:06:54.208162"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.699999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 01:11:54.559270",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 01:11:54.548707"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.699999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 01:16:54.893715",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 01:16:54.886748"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.699999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 01:21:55.241589",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 01:21:55.234976"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.699999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 01:26:55.578380",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 01:26:55.571834"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.699999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 01:31:55.913016",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 01:31:55.906250"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.800000000000001
+        }
+    },
+    {
+        "time": "2018-11-06 01:36:56.250616",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 01:36:56.244023"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.800000000000001
+        }
+    },
+    {
+        "time": "2018-11-06 01:41:56.591325",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 01:41:56.584674"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.800000000000001
+        }
+    },
+    {
+        "time": "2018-11-06 01:46:56.931108",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 01:46:56.924500"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.800000000000001
+        }
+    },
+    {
+        "time": "2018-11-06 01:51:57.273663",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 01:51:57.267208"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.899999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 01:56:57.611108",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 01:56:57.604740"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.699999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 02:01:57.951204",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 02:01:57.944726"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.699999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 02:06:58.291202",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 02:06:58.284831"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.699999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 02:11:58.625682",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 02:11:58.618874"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.699999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 02:16:58.965560",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 02:16:58.958700"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.699999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 02:21:59.312359",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 02:21:59.305968"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.699999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 02:27:02.818852",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 02:27:02.812067"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.600000000000001
+        }
+    },
+    {
+        "time": "2018-11-06 02:32:03.159190",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 02:32:03.152829"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.600000000000001
+        }
+    },
+    {
+        "time": "2018-11-06 02:37:03.517957",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 02:37:03.511248"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.699999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 02:42:03.946359",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 02:42:03.936348"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.699999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 02:47:04.284056",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 02:47:04.277460"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.699999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 02:52:04.619607",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 02:52:04.613165"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.699999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 02:57:04.957953",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 02:57:04.951495"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.800000000000001
+        }
+    },
+    {
+        "time": "2018-11-06 03:02:05.322724",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 03:02:05.314703"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.800000000000001
+        }
+    },
+    {
+        "time": "2018-11-06 03:07:05.739424",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 03:07:05.733038"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.800000000000001
+        }
+    },
+    {
+        "time": "2018-11-06 03:12:06.080924",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 03:12:06.074532"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.899999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 03:17:06.522704",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 03:17:06.516217"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.899999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 03:22:06.967279",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 03:22:06.960741"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.800000000000001
+        }
+    },
+    {
+        "time": "2018-11-06 03:27:07.411180",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 03:27:07.400957"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.800000000000001
+        }
+    },
+    {
+        "time": "2018-11-06 03:32:07.812457",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 03:32:07.806062"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.899999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 03:37:08.188813",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 03:37:08.182291"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.899999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 03:42:08.627947",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 03:42:08.621392"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.800000000000001
+        }
+    },
+    {
+        "time": "2018-11-06 03:47:09.072150",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 03:47:09.065778"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.800000000000001
+        }
+    },
+    {
+        "time": "2018-11-06 03:52:11.461122",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 03:52:11.454706"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.699999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 03:57:11.900464",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 03:57:11.894109"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.699999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 04:02:12.339506",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 04:02:12.333131"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.699999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 04:07:12.784794",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 04:07:12.778188"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.699999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 04:12:13.225849",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 04:12:13.219242"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.699999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 04:17:13.736454",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 04:17:13.729966"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.699999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 04:22:14.211936",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 04:22:14.205297"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.699999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 04:27:14.654904",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 04:27:14.648167"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.699999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 04:32:15.098927",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 04:32:15.092201"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.699999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 04:37:15.534498",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 04:37:15.528045"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.699999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 04:42:15.979848",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 04:42:15.973264"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.699999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 04:47:16.424903",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 04:47:16.414946"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.600000000000001
+        }
+    },
+    {
+        "time": "2018-11-06 04:52:16.795966",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 04:52:16.789456"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.600000000000001
+        }
+    },
+    {
+        "time": "2018-11-06 04:57:17.199074",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 04:57:17.192653"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.600000000000001
+        }
+    },
+    {
+        "time": "2018-11-06 05:02:17.644078",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 05:02:17.637483"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.600000000000001
+        }
+    },
+    {
+        "time": "2018-11-06 05:07:18.084345",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 05:07:18.077778"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.600000000000001
+        }
+    },
+    {
+        "time": "2018-11-06 05:12:18.524937",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 05:12:18.518359"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.600000000000001
+        }
+    },
+    {
+        "time": "2018-11-06 05:17:18.966318",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 05:17:18.959738"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.600000000000001
+        }
+    },
+    {
+        "time": "2018-11-06 05:22:22.378575",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 05:22:22.372045"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.600000000000001
+        }
+    },
+    {
+        "time": "2018-11-06 05:27:22.767811",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 05:27:22.761169"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.5
+        }
+    },
+    {
+        "time": "2018-11-06 05:32:23.263396",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 05:32:23.256811"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.5
+        }
+    },
+    {
+        "time": "2018-11-06 05:37:23.701661",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 05:37:23.695286"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.5
+        }
+    },
+    {
+        "time": "2018-11-06 05:42:24.143656",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 05:42:24.137026"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.399999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 05:47:24.588584",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 05:47:24.581921"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.399999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 05:52:25.027572",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 05:52:25.021031"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.399999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 05:57:25.471107",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 05:57:25.464774"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.399999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 06:02:25.912217",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 06:02:25.905804"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.399999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 06:07:26.356972",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 06:07:26.350393"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.399999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 06:12:26.794558",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 06:12:26.787956"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.399999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 06:17:27.236498",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 06:17:27.229914"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.399999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 06:22:27.679906",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 06:22:27.673478"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.399999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 06:27:28.125147",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 06:27:28.118494"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.399999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 06:32:28.568406",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 06:32:28.556885"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.399999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 06:37:29.108672",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 06:37:29.102106"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.399999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 06:42:32.726636",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 06:42:32.719666"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.399999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 06:47:33.168492",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 06:47:33.161777"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.300000000000001
+        }
+    },
+    {
+        "time": "2018-11-06 06:52:33.710065",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 06:52:33.703623"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.300000000000001
+        }
+    },
+    {
+        "time": "2018-11-06 06:57:34.253179",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 06:57:34.246451"
+        },
+        "payload": {
+            "capacitance": 420,
+            "temperature": 26.300000000000001
+        }
+    },
+    {
+        "time": "2018-11-06 07:02:34.799103",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 07:02:34.792284"
+        },
+        "payload": {
+            "capacitance": 420,
+            "temperature": 26.300000000000001
+        }
+    },
+    {
+        "time": "2018-11-06 07:07:35.341758",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 07:07:35.334788"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.300000000000001
+        }
+    },
+    {
+        "time": "2018-11-06 07:12:35.886791",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 07:12:35.880129"
+        },
+        "payload": {
+            "capacitance": 420,
+            "temperature": 26.300000000000001
+        }
+    },
+    {
+        "time": "2018-11-06 07:17:36.433856",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 07:17:36.427255"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.300000000000001
+        }
+    },
+    {
+        "time": "2018-11-06 07:22:36.879651",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 07:22:36.873252"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.399999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 07:27:37.420103",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 07:27:37.413375"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.300000000000001
+        }
+    },
+    {
+        "time": "2018-11-06 07:32:37.881902",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 07:32:37.875503"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.300000000000001
+        }
+    },
+    {
+        "time": "2018-11-06 07:37:38.401469",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 07:37:38.394997"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.300000000000001
+        }
+    },
+    {
+        "time": "2018-11-06 07:42:38.915391",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 07:42:38.908821"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.300000000000001
+        }
+    },
+    {
+        "time": "2018-11-06 07:47:39.393286",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 07:47:39.386829"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.300000000000001
+        }
+    },
+    {
+        "time": "2018-11-06 07:52:43.018514",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 07:52:43.012048"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.300000000000001
+        }
+    },
+    {
+        "time": "2018-11-06 07:57:43.549444",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 07:57:43.542881"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.300000000000001
+        }
+    },
+    {
+        "time": "2018-11-06 08:02:44.091938",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 08:02:44.082823"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.199999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 08:07:44.640442",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 08:07:44.633883"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.199999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 08:12:45.184073",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 08:12:45.177345"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.199999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 08:17:45.725701",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 08:17:45.718971"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.199999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 08:22:46.270403",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 08:22:46.263845"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.199999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 08:27:46.813837",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 08:27:46.807134"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.199999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 08:32:47.361289",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 08:32:47.351994"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.199999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 08:37:47.904090",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 08:37:47.897338"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.199999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 08:42:48.448804",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 08:42:48.442124"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.199999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 08:47:48.928681",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 08:47:48.922150"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.199999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 08:52:52.368486",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 08:52:52.361940"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.199999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 08:57:52.915919",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 08:57:52.909376"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.199999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 09:02:53.489807",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 09:02:53.483292"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.199999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 09:07:54.034502",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 09:07:54.027800"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.199999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 09:12:54.580955",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 09:12:54.574328"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.199999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 09:17:55.126700",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 09:17:55.120240"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.199999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 09:22:55.668448",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 09:22:55.659486"
+        },
+        "payload": {
+            "capacitance": 418,
+            "temperature": 26.199999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 09:27:56.210056",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 09:27:56.203498"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.199999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 09:32:56.758544",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 09:32:56.751984"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.199999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 09:37:57.301683",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 09:37:57.295308"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.0
+        }
+    },
+    {
+        "time": "2018-11-06 09:42:57.844554",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 09:42:57.837829"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.0
+        }
+    },
+    {
+        "time": "2018-11-06 09:47:58.391086",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 09:47:58.382173"
+        },
+        "payload": {
+            "capacitance": 420,
+            "temperature": 26.0
+        }
+    },
+    {
+        "time": "2018-11-06 09:52:58.908845",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 09:52:58.902386"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.0
+        }
+    },
+    {
+        "time": "2018-11-06 09:58:02.648430",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 09:58:02.641817"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.0
+        }
+    },
+    {
+        "time": "2018-11-06 10:03:03.166227",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 10:03:03.159713"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.0
+        }
+    },
+    {
+        "time": "2018-11-06 10:08:03.736943",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 10:08:03.730264"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.0
+        }
+    },
+    {
+        "time": "2018-11-06 10:13:04.289480",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 10:13:04.280508"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.0
+        }
+    },
+    {
+        "time": "2018-11-06 10:18:04.933252",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 10:18:04.926718"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.0
+        }
+    },
+    {
+        "time": "2018-11-06 10:23:05.582150",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 10:23:05.575819"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.0
+        }
+    },
+    {
+        "time": "2018-11-06 10:28:06.227019",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 10:28:06.218734"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.0
+        }
+    },
+    {
+        "time": "2018-11-06 10:33:06.871413",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 10:33:06.865065"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.0
+        }
+    },
+    {
+        "time": "2018-11-06 10:38:07.516691",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 10:38:07.510118"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.0
+        }
+    },
+    {
+        "time": "2018-11-06 10:43:08.163730",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 10:43:08.157257"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 25.899999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 10:48:08.812482",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 10:48:08.806076"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 25.899999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 10:53:12.409405",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 10:53:12.402707"
+        },
+        "payload": {
+            "capacitance": 420,
+            "temperature": 26.0
+        }
+    },
+    {
+        "time": "2018-11-06 10:58:13.027105",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 10:58:13.020613"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.0
+        }
+    },
+    {
+        "time": "2018-11-06 11:03:13.618692",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 11:03:13.612144"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 25.899999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 11:08:14.262791",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 11:08:14.256250"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 25.899999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 11:13:14.908805",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 11:13:14.900145"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 25.899999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 11:18:15.554894",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 11:18:15.548286"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 25.899999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 11:23:16.200726",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 11:23:16.194281"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 25.899999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 11:28:16.848799",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 11:28:16.842258"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 25.899999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 11:33:17.502573",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 11:33:17.492103"
+        },
+        "payload": {
+            "capacitance": 420,
+            "temperature": 25.899999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 11:38:18.142242",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 11:38:18.135895"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 25.899999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 11:43:18.786599",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 11:43:18.780060"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 25.899999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 11:48:22.142488",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 11:48:22.136106"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 25.899999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 11:53:22.708801",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 11:53:22.700054"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 25.899999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 11:58:23.328392",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 11:58:23.321948"
+        },
+        "payload": {
+            "capacitance": 420,
+            "temperature": 25.899999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 12:03:23.938963",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 12:03:23.932453"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 25.899999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 12:08:24.588070",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 12:08:24.581586"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 25.899999999999999
+        }
+    },
+    {
+        "time": "2018-11-06 12:13:25.234282",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 12:13:25.227791"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.0
+        }
+    },
+    {
+        "time": "2018-11-06 12:18:25.875803",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 12:18:25.869303"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.0
+        }
+    },
+    {
+        "time": "2018-11-06 12:23:26.521935",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 12:23:26.515587"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.0
+        }
+    },
+    {
+        "time": "2018-11-06 12:28:27.168122",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 12:28:27.161704"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.0
+        }
+    },
+    {
+        "time": "2018-11-06 12:33:27.820638",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 12:33:27.814299"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.0
+        }
+    },
+    {
+        "time": "2018-11-06 12:38:28.466556",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-06 12:38:28.460085"
+        },
+        "payload": {
+            "capacitance": 419,
+            "temperature": 26.0
+        }
+    },
+    {
+        "time": "2018-11-05 16:21:58.012174",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 16:21:58.002573"
+        },
+        "payload": {
+            "capacitance": 397,
+            "temperature": 27.600000000000001
+        }
+    },
+    {
+        "time": "2018-11-05 16:26:58.597019",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 16:26:58.590731"
+        },
+        "payload": {
+            "capacitance": 397,
+            "temperature": 28.399999999999999
+        }
+    },
+    {
+        "time": "2018-11-05 16:32:02.417901",
+        "dev": {
+            "dev_id": "dev-esp8266-2",
+            "name": "Awesome Soil Moisture",
+            "dev_ip": "192.168.3.214",
+            "last_connection": "2018-11-05 16:32:02.411280"
+        },
+        "payload": {
+            "capacitance": 395,
+            "temperature": 28.399999999999999
+        }
+    }
+]
