@@ -31,12 +31,29 @@ Adafruit_MAX31865 RTD = Adafruit_MAX31865(10, 11, 12, 13);
 #define RREF 4300.0
 #define RNOMINAL 1000.0
 
-void measure() {
+/*
+ * define the sensor pin array
+ */
+int SENSORS[] = {1,2,3,4};
+int sensor_amount = sizeof(SENSORS) / sizeof(int);
+
+void measurements() {
   // DEVELOPMENT
   Serial.begin(115200);
   
   //initialize the RTD amplifier
   RTD.begin(MAX31865_2WIRE);      //_3WIRE and _4WIRE are also possible
+
+  // go for each sensor
+  for (int i; i < sensor_amount; i++) {
+    single_sensor(SENSORS[i]);
+  }
+
+}
+
+void single_sensor(int sensorPin) {
+  // connect the requested sensor to the RTD amplifier
+  mux.channel(sensorPin);
 
   // make measurement
   uint16_t rtd = RTD.readRTD();
@@ -48,11 +65,14 @@ void measure() {
 
   // DEVELOPMENT 
   // return the values here.
+  Serial.print(sensorPin);
+  Serial.print(", ");
   Serial.print(resistance, 8);
   Serial.print(", ");
   Serial.println(temp, 8);
 
-  // TODO: fault handling is missing. RTD.readFault() can be used
+  // TODO: fault handling is missing. RTD.readFault() can be used  
+  
 }
 
 void setup() {
@@ -79,7 +99,7 @@ void setup() {
   /*
    * MEASUREMENT
    */
-  measure();
+  measurements();
 
   /* 
    *  Set Alarm to 12 seconds
